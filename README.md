@@ -1,6 +1,6 @@
 # An Introduction to Google Colaboratory
 
-> An introduction to using the Google Colaboratory notebook environment for instructional and research initiatives.
+An introduction to using the Google Colaboratory notebook environment for instructional and research initiatives.
 
 [![Open An Introduction to Google Colaboratory in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/intro-to-colab-DELTA-summer-shorts/blob/main/intro-to-colab-DELTA-summer-shorts.ipynb)
 
